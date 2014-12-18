@@ -1,2 +1,4 @@
-var greeting = 'hello';
-console.log(greeting);
+(function(){
+  var greeting = 'hello';
+  console.log(greeting);
+})();
